@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
@@ -34,7 +33,6 @@ app.use(bodyParser.json())
 
  app.use('/',homeRouter);
 
-=======
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
